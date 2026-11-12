@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <title>Trust Me Bru</title>
+    <link rel="stylesheet" href="popup.css" />
+  </head>
+  <body>
+    <main>
+      <header>TRUST ME BRU<small>PRICE CHECK / LOCAL COPY</small></header>
+      <p>
+        One page at a time. Random 20–30 second waits between pages at the same
+        store.
+      </p>
+      <button id="start">Collect today's prices</button
+      ><button id="stop" hidden>Stop collection</button>
+      <p id="status" role="status" aria-live="polite">
+        Reading collection status…
+      </p>
+      <p id="current"></p>
+      <progress
+        id="progress"
+        value="0"
+        max="1"
+        aria-label="Collection progress"
+      ></progress
+      ><label
+        ><input type="checkbox" id="auto" /> Collect once a day while Chrome is
+        open</label
+      >
+      <p id="error" role="alert"></p>
+      <details>
+        <summary>Collection notes</summary>
+        <ul id="notes"></ul>
+        <button id="export">Save collection notes</button>
+      </details>
+      <footer>
+        <a href="http://127.0.0.1:3210" target="_blank" rel="noreferrer"
+          >Open the price checker</a
+        >
+        <p>
+          The local website must be running. Closing this popup leaves
+          collection running. Delayed browser alarms can make waits longer.
+        </p>
+        <div class="barcode" aria-hidden="true">
+          |||| || ||| | || |||| ||| | ||||
+        </div>
+      </footer>
+    </main>
+    <script type="module" src="popup.mjs"></script>
+  </body>
+</html>

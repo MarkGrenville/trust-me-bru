@@ -1,0 +1,84 @@
+[
+  {
+    "key": "takealot",
+    "display_name": "Takealot",
+    "home_url": "https://www.takealot.com/",
+    "status": "tracked",
+    "price_read": "Read the visible current price and struck-through was price; no Product/Offer JSON-LD was found on the checked product pages. Select the exact colour/storage variant using its complete URL. Keep third-party seller offers separate from Takealot’s own offer. If the main offer does not display its seller, record seller and is_marketplace as null; do not attribute the offer to Takealot or use it in the leaderboard until seller identity is established. Record the comparison-price label exactly in was_label, or null if it cannot be read. Open the main offer’s price info tip; the HS5100 tip checked on 12 November 2026 said List Price. Do not rename it was or assume it was a price charged. Use collector/takealot-seller.cjs: read the visible main-seller block beside the stock section or the desktop pdp seller-detail block outside the buybox. Ignore hidden responsive duplicates and Other Offers. Record the name and is_marketplace; only an explicit Takealot/Takealot.com seller is native. Never infer a seller from delivery or fulfilment. A missing visible native name may be confirmed by the already-loaded public page’s explicit market_place_listing=false flag only when product ID, selected SKU and visible price match. Capture that evidence; do not infer native status from a missing seller.",
+    "checked_at": "2026-11-11T22:00:54+02:00",
+    "last_collection_check_at": "2026-11-11T22:43:00+02:00"
+  },
+  {
+    "key": "makro",
+    "display_name": "Makro",
+    "home_url": "https://www.makro.co.za/",
+    "status": "human-check",
+    "checked_at": "2026-11-11T20:51:52+02:00",
+    "human_check_date": "2026-11-11",
+    "attempted_url": "https://www.makro.co.za/samsung-248-91-cm-98-inch-qled-ultra-hd-4k-tizen-smart-tv/p/itmac563885b688a",
+    "price_read": "Not collected: product page redirected to a human check. Record the comparison-price label exactly in was_label, or null if it cannot be read.",
+    "status_note": "asks if you're human, so not tracked",
+    "check_text": "Are you a human? Press and hold the button below to confirm."
+  },
+  {
+    "key": "game",
+    "display_name": "Game",
+    "home_url": "https://www.game.co.za/",
+    "status": "human-check",
+    "checked_at": "2026-11-11T20:52:03+02:00",
+    "human_check_date": "2026-11-11",
+    "attempted_url": "https://www.game.co.za/",
+    "price_read": "Not collected: homepage displayed a human check. Record the comparison-price label exactly in was_label, or null if it cannot be read.",
+    "status_note": "asks if you're human, so not tracked",
+    "check_text": "Are you a human? Press & Hold the button to confirm that you are a human."
+  },
+  {
+    "key": "incredible",
+    "display_name": "Incredible Connection",
+    "home_url": "https://www.incredible.co.za/",
+    "status": "tracked",
+    "price_read": "Read JSON-LD Product/Offer first, then check the visible current price, Normal Price claim and offer conditions. Normal Price is text, not necessarily a struck-through number. When the page shows Normal Price OR a lower +more offer, the lower amount is a member price: record with +more in promo_label, followed by any sale-end text, just as for HiFi Corp. A single price without that badge has no +more condition. Record the comparison-price label exactly in was_label, or null if it cannot be read.",
+    "checked_at": "2026-11-11T21:53:00+02:00",
+    "last_collection_check_at": "2026-11-11T22:48:50+02:00"
+  },
+  {
+    "key": "hificorp",
+    "display_name": "HiFi Corp",
+    "home_url": "https://www.hificorp.co.za/",
+    "status": "tracked",
+    "price_read": "Read JSON-LD Product/Offer first, then check the visible current price and Normal Price/was claim. Record the visible with +more condition in promo_label; it is absent from the checked JSON-LD offers. Record the comparison-price label exactly in was_label, or null if it cannot be read.",
+    "checked_at": "2026-11-11T21:55:46+02:00",
+    "last_collection_check_at": "2026-11-11T22:49:29+02:00"
+  },
+  {
+    "key": "checkers",
+    "display_name": "Checkers",
+    "home_url": "https://www.checkers.co.za/",
+    "status": "tracked",
+    "price_read": "Read Product/Offer JSON-LD, then verify the visible Sixty60 price, pack size, stock and promotional conditions. A visible promotional price can differ from the JSON-LD regular price; preserve both visible amounts and the offer conditions, and document the discrepancy. Record the comparison-price label exactly in was_label, or null if it cannot be read.",
+    "notes": "Grocery staples are tracked at exact pack sizes. No delivery address was set during identity verification; pricing and availability depend on delivery location.",
+    "checked_at": "2026-11-11T21:10:40+02:00",
+    "last_collection_check_at": "2026-11-11T22:23:44+02:00"
+  },
+  {
+    "key": "hirschs",
+    "display_name": "Hirsch's",
+    "home_url": "https://www.hirschs.co.za/",
+    "status": "tracked",
+    "role": "alternate",
+    "price_read": "Read Product/Offer JSON-LD first, then the visible current price, was price and branch availability. Use the model in the visible title/specifications: the checked JSON-LD mpn fields contain Hirsch’s internal item numbers. Record the comparison-price label exactly in was_label, or null if it cannot be read.",
+    "checked_at": "2026-11-11T21:58:27+02:00",
+    "last_collection_check_at": "2026-11-11T22:30:44+02:00"
+  },
+  {
+    "key": "pnp",
+    "display_name": "Pick n Pay",
+    "home_url": "https://www.pnp.co.za/",
+    "status": "tracked",
+    "role": "alternate",
+    "price_read": "Check Product/Offer JSON-LD when present, otherwise read the visible product price. Keep Smart Shopper and multibuy conditions with the reading; check the barcode and pack size in Product Info. Record the comparison-price label exactly in was_label, or null if it cannot be read.",
+    "notes": "No Product/Offer JSON-LD was found on the checked Albany product page. No delivery address was set; pricing and availability depend on delivery location.",
+    "checked_at": "2026-11-11T21:14:09+02:00",
+    "last_collection_check_at": "2026-11-11T22:11:41+02:00"
+  }
+]

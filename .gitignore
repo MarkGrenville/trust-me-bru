@@ -1,0 +1,10 @@
+node_modules/
+.next/
+*.tsbuildinfo
+.DS_Store
+.playwright-mcp/
+data/.observe-lock/
+.nocturnal/
+CLAUDE.md
+data/reference-history.json
+docs/reference-history*

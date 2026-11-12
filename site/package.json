@@ -1,0 +1,32 @@
+{
+  "name": "trust-me-bru",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "NEXT_TELEMETRY_DISABLED=1 next dev --hostname 127.0.0.1 --port 3210",
+    "build": "NEXT_TELEMETRY_DISABLED=1 next build",
+    "start": "NEXT_TELEMETRY_DISABLED=1 next start --hostname 127.0.0.1 --port 3210",
+    "test": "node --import tsx --test lib/*.test.ts ../extension/*.test.mjs",
+    "typecheck": "tsc --noEmit",
+    "collector:prepare": "node ../collector/build-reader.cjs",
+    "extension:build": "node ../extension/build.cjs",
+    "extension:smoke": "node --import tsx ../extension/smoke.cjs"
+  },
+  "dependencies": {
+    "@fontsource/ibm-plex-mono": "^5.3.0",
+    "@tailwindcss/postcss": "^4.3.5",
+    "next": "^16.4.6",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1",
+    "tailwindcss": "^4.3.5"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.6",
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "linkedom": "^0.18.15",
+    "playwright": "^1.65.0",
+    "tsx": "^4.23.15",
+    "typescript": "^7.0.2"
+  }
+}

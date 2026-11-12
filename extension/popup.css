@@ -1,0 +1,97 @@
+@font-face {
+  font-family: Receipt;
+  src: url(assets/mono.woff2);
+}
+* {
+  box-sizing: border-box;
+}
+body {
+  width: 370px;
+  margin: 0;
+  background: #242622;
+  color: #24251f;
+  font:
+    12px/1.6 Receipt,
+    monospace;
+  padding: 14px;
+}
+main {
+  background: #f5f2e9;
+  padding: 22px;
+}
+header {
+  font-size: 24px;
+  letter-spacing: -1px;
+  border-bottom: 1px dashed;
+  padding-bottom: 15px;
+}
+small {
+  display: block;
+  font-size: 10px;
+  letter-spacing: 1px;
+}
+button {
+  font: inherit;
+  background: #24251f;
+  color: #f5f2e9;
+  border: 1px solid;
+  padding: 12px;
+  width: 100%;
+  cursor: pointer;
+}
+button:disabled {
+  opacity: 0.5;
+  cursor: wait;
+}
+#stop {
+  background: transparent;
+  color: #24251f;
+  margin-top: 8px;
+}
+label {
+  display: block;
+  border-block: 1px dashed;
+  padding: 14px 0;
+  margin-top: 14px;
+}
+input {
+  accent-color: #b93227;
+}
+progress {
+  width: 100%;
+  accent-color: #24251f;
+}
+a {
+  color: inherit;
+}
+#error {
+  color: #a12e24;
+}
+footer {
+  border-top: 1px dashed;
+  margin-top: 18px;
+  padding-top: 14px;
+  font-size: 10px;
+}
+li {
+  margin-bottom: 8px;
+  overflow-wrap: anywhere;
+}
+ul {
+  padding-left: 16px;
+  max-height: 200px;
+  overflow: auto;
+}
+.barcode {
+  font-size: 28px;
+  white-space: nowrap;
+  overflow: hidden;
+  letter-spacing: -3px;
+}
+button:focus-visible,
+a:focus-visible,
+input:focus-visible,
+summary:focus-visible {
+  outline: 2px solid #b93227;
+  outline-offset: 3px;
+}

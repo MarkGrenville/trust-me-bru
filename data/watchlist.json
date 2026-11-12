@@ -1,0 +1,761 @@
+[
+  {
+    "id": "hisense-58a6n",
+    "name": "Hisense 58-inch Smart 4K UHD TV 58A6N",
+    "brand": "Hisense",
+    "model": "58A6N",
+    "category": "tvs",
+    "gtin": "6942351406541",
+    "stores": {
+      "hificorp": "https://www.hificorp.co.za/hisense-58-inch-smart-4k-uhd-tv-58a6n",
+      "incredible": "https://www.incredible.co.za/hisense-58-inch-smart-4k-uhd-tv-58a6n",
+      "takealot": "https://www.takealot.com/hisense-58-a6n-4k-uhd-smart-tv-with-hdr-dolby-vision/PLID95882055"
+    }
+  },
+  {
+    "id": "samsung-55-qn70h",
+    "name": "Samsung 55-Inch Neo QLED TV 55QN70H",
+    "brand": "Samsung",
+    "model": "QA55QN70HAUXXA",
+    "category": "tvs",
+    "gtin": "8806099032371",
+    "stores": {
+      "hificorp": "https://www.hificorp.co.za/samsung-55-inch-neo-qled-tv-55qn70h",
+      "hirschs": "https://www.hirschs.co.za/samsung-139cm-55-neo-qled-qn70h-4k-vision-ai-smart-television-qa55qn70hauxxa",
+      "takealot": "https://www.takealot.com/samsung-55-qn70h-neo-qled-dlg120hz-ai-smart-tv-with-4k-upscaling/PLID102484220"
+    }
+  },
+  {
+    "id": "hisense-55q6q",
+    "name": "Hisense 55-inch QLED 4K TV-55Q6Q",
+    "brand": "Hisense",
+    "model": "55Q6Q",
+    "category": "tvs",
+    "gtin": "6942351421902",
+    "stores": {
+      "hificorp": "https://www.hificorp.co.za/hisense-55-inch-qled-4k-tv-55q6q",
+      "hirschs": "https://www.hirschs.co.za/hisense-139cm-55-60hz-qled-smart-tv-55q6q",
+      "incredible": "https://www.incredible.co.za/hisense-55-inch-qled-4k-tv-55q6q"
+    }
+  },
+  {
+    "id": "hisense-65a6q",
+    "name": "Hisense 65-inch Smart 4K UHD TV-65A6Q",
+    "brand": "Hisense",
+    "model": "65A6Q",
+    "category": "tvs",
+    "gtin": "6942351415406",
+    "stores": {
+      "hificorp": "https://www.hificorp.co.za/hisense-65-inch-smart-4k-uhd-tv-65a6q",
+      "incredible": "https://www.incredible.co.za/hisense-65-inch-smart-4k-uhd-tv-65a6q",
+      "takealot": "https://www.takealot.com/hisense-65-a6q-4k-uhd-smart-tv-with-ai-upscaler-voice-control/PLID98257973"
+    }
+  },
+  {
+    "id": "samsung-50u8000f",
+    "name": "Samsung 50-inch Crystal UHD 4K-50U8000F",
+    "brand": "Samsung",
+    "model": "UA50U8000FUXXA",
+    "category": "tvs",
+    "gtin": "8806097079309",
+    "stores": {
+      "hificorp": "https://www.hificorp.co.za/samsung-50-inch-crystal-uhd-4k-50u8000f",
+      "incredible": "https://www.incredible.co.za/samsung-50-inch-crystal-uhd-4k-50u8000f"
+    }
+  },
+  {
+    "id": "samsung-55q7f",
+    "name": "Samsung 55-inch QLED TV 4K-55Q7F",
+    "brand": "Samsung",
+    "model": "QA55Q7FAAUXXA",
+    "category": "tvs",
+    "gtin": "8806097209577",
+    "stores": {
+      "hificorp": "https://www.hificorp.co.za/samsung-55-inch-qled-tv-4k-55q7f",
+      "incredible": "https://www.incredible.co.za/samsung-55-inch-qled-tv-4k-55q7f"
+    }
+  },
+  {
+    "id": "tcl-55c655",
+    "name": "TCL 55-inch QLED Google TV-55C655",
+    "brand": "TCL",
+    "model": "55C655",
+    "category": "tvs",
+    "gtin": "6921732830298",
+    "stores": {
+      "hificorp": "https://www.hificorp.co.za/tcl-55-inch-qled-google-tv-55c655",
+      "incredible": "https://www.incredible.co.za/tcl-55-inch-qled-google-tv-55c655"
+    }
+  },
+  {
+    "id": "tcl-65c6k",
+    "name": "TCL 65-Inch Mini LED Google TV-65C6K",
+    "brand": "TCL",
+    "model": "65C6K",
+    "category": "tvs",
+    "gtin": "6921732847418",
+    "stores": {
+      "hificorp": "https://www.hificorp.co.za/tcl-65-inch-mini-led-google-tv-65c6k",
+      "hirschs": "https://www.hirschs.co.za/tcl-165cm-65-4k-mini-led-google-tv-65c6k",
+      "incredible": "https://www.incredible.co.za/tcl-65-inch-mini-led-google-tv-65c6k",
+      "takealot": "https://www.takealot.com/tcl-65-c6k-144hz-4k-miniled-google-smart-tv/PLID97491908"
+    }
+  },
+  {
+    "id": "skyworth-65q6600h",
+    "name": "Skyworth 65-inch QLED Google TV-65Q6600H",
+    "brand": "Skyworth",
+    "model": "65Q6600H",
+    "category": "tvs",
+    "gtin": "6009608278877",
+    "stores": {
+      "hificorp": "https://www.hificorp.co.za/skyworth-65-inch-qled-google-tv-65q6600h",
+      "incredible": "https://www.incredible.co.za/skyworth-65-inch-qled-google-tv-65q6600h"
+    }
+  },
+  {
+    "id": "hisense-75u7q",
+    "name": "Hisense 75-inch Mini-LED 144Hz TV-75U7Q",
+    "brand": "Hisense",
+    "model": "75U7Q",
+    "category": "tvs",
+    "gtin": "6942351416250",
+    "stores": {
+      "hificorp": "https://www.hificorp.co.za/hisense-75-inch-mini-led-144hz-tv-75u7q",
+      "incredible": "https://www.incredible.co.za/hisense-75-inch-mini-led-144hz-tv-75u7q"
+    }
+  },
+  {
+    "id": "jbl-sb580",
+    "name": "JBL 3.1 Channel Soundbar and Sub SB580",
+    "brand": "JBL",
+    "model": "SB580",
+    "category": "soundbars-speakers",
+    "gtin": "1200130009259",
+    "stores": {
+      "hificorp": "https://www.hificorp.co.za/jbl-3-1-channel-soundbar-and-sub-sb580",
+      "hirschs": "https://www.hirschs.co.za/jbl-sb580-3-1-soundbar-440w-con000126",
+      "incredible": "https://www.incredible.co.za/jbl-3-1-channel-soundbar-and-sub-sb580",
+      "takealot": "https://www.takealot.com/jbl-cinema-sb580-3-1-channel-soundbar-with-wireless-subwoofer/PLID96212815"
+    }
+  },
+  {
+    "id": "sony-ht-s20r",
+    "name": "Sony HT-S20R 400W 5.1Channel Dolby Soundbar",
+    "brand": "Sony",
+    "model": "HT-S20R",
+    "category": "soundbars-speakers",
+    "gtin": "4548736107151",
+    "stores": {
+      "hificorp": "https://www.hificorp.co.za/sony-ht-s20r-400w-5-1channel-dolby-soundbar",
+      "incredible": "https://www.incredible.co.za/sony-ht-s20r-400w-5-1channel-dolby-soundbar",
+      "takealot": "https://www.takealot.com/sony-ht-s20r-5-1-channel-soundbar-with-subwoofer-400w-total-powe/PLID90509070"
+    }
+  },
+  {
+    "id": "samsung-hw-b650f",
+    "name": "Samsung B-Series Soundbar HW-B650F 3.1 ch Subwoofer 2025",
+    "brand": "Samsung",
+    "model": "HWB650FXA",
+    "category": "soundbars-speakers",
+    "gtin": "8806097084266",
+    "stores": {
+      "hificorp": "https://www.hificorp.co.za/samsung-b-series-soundbar-hw-b650f-3-1-ch-subwoofer-2025",
+      "hirschs": "https://www.hirschs.co.za/samsung-3-1ch-b-series-subwoofer-soundbar-hw-b650f-xa",
+      "incredible": "https://www.incredible.co.za/samsung-b-series-soundbar-hw-b650f-3-1-ch-subwoofer-2025",
+      "takealot": "https://www.takealot.com/samsung-b650f-3-1ch-370w-3d-surround-soundbar-dolby-digital-5-1c/PLID98666796"
+    }
+  },
+  {
+    "id": "hisense-hs3100",
+    "name": "Hisense 3.1 Channel 480W Soundbar HS3100",
+    "brand": "Hisense",
+    "model": "HS3100",
+    "category": "soundbars-speakers",
+    "gtin": "6942351409085",
+    "stores": {
+      "hificorp": "https://www.hificorp.co.za/hisense-3-1-channel-480w-soundbar-hs3100",
+      "hirschs": "https://www.hirschs.co.za/hisense-3-1ch-480w-dolby-digital-hs-series-soundbar-hs3100",
+      "incredible": "https://www.incredible.co.za/hisense-3-1-channel-480w-soundbar-hs3100",
+      "takealot": "https://www.takealot.com/hisense-480w-3-1-channel-bluetooth-sound-bar-with-wireless-subwo/PLID95490805"
+    }
+  },
+  {
+    "id": "hisense-hs5100",
+    "name": "Hisense 5.1 Channel 540W Soundbar HS5100",
+    "brand": "Hisense",
+    "model": "HS5100",
+    "category": "soundbars-speakers",
+    "gtin": "6942351409078",
+    "stores": {
+      "hificorp": "https://www.hificorp.co.za/hisense-5-1-channel-540w-soundbar-hs5100",
+      "hirschs": "https://www.hirschs.co.za/hisense-5-1ch-540w-dolby-digital-soundbar-hs5100",
+      "incredible": "https://www.incredible.co.za/hisense-5-1-channel-540w-soundbar-hs5100",
+      "takealot": "https://www.takealot.com/hisense-540w-5-1-channel-bluetooth-soundbar-with-wireless-subwoo/PLID95536338"
+    }
+  },
+  {
+    "id": "skyworth-ss330",
+    "name": "Skyworth 2.1 Channel Soundbar SS330",
+    "brand": "Skyworth",
+    "model": "SS330",
+    "category": "soundbars-speakers",
+    "gtin": "6009608277580",
+    "stores": {
+      "hificorp": "https://www.hificorp.co.za/skyworth-2-1-channel-soundbar-ss330",
+      "incredible": "https://www.incredible.co.za/skyworth-2-1-channel-soundbar-ss330",
+      "takealot": "https://www.takealot.com/skyworth-soundbar-with-wireless-subwoofer-480w-2-1-sound-bar-blu/PLID71289666"
+    }
+  },
+  {
+    "id": "samsung-hw-b450f",
+    "name": "Samsung B-series Soundbar HW-B450F 2.1 ch Subwoofer 2025",
+    "brand": "Samsung",
+    "model": "HWB450FXA",
+    "category": "soundbars-speakers",
+    "gtin": "8806097084242",
+    "stores": {
+      "hificorp": "https://www.hificorp.co.za/samsung-b-series-soundbar-hw-b450f-2-1-ch-subwoofer-2025",
+      "hirschs": "https://www.hirschs.co.za/samsung-2-1ch-b-series-soundbar-hw-b450f-xa",
+      "incredible": "https://www.incredible.co.za/samsung-b-series-soundbar-hw-b450f-2-1-ch-subwoofer-2025",
+      "takealot": "https://www.takealot.com/samsung-b450f-2-1ch-300w-3d-surround-soundbar-dolby-audio-and-dt/PLID98666627"
+    }
+  },
+  {
+    "id": "jbl-sb550",
+    "name": "JBL Cinema SB550 3.1 Soundbar and Wireless Subwoofer",
+    "brand": "JBL",
+    "model": "JBLSB550BLK",
+    "category": "soundbars-speakers",
+    "gtin": "1200130009174",
+    "stores": {
+      "hificorp": "https://www.hificorp.co.za/jbl-cinema-sb550-3-1-soundbar-and-wireless-subwoofer",
+      "hirschs": "https://www.hirschs.co.za/jbl-cinema-sb550-3-1-channel-soundbar-with-wireless-subwoofer-oh2305",
+      "incredible": "https://www.incredible.co.za/jbl-cinema-sb550-3-1-soundbar-and-wireless-subwoofer",
+      "takealot": "https://www.takealot.com/jbl-cinema-sb550-3-1-channel-soundbar-with-wireless-subwoofer/PLID95364090"
+    }
+  },
+  {
+    "id": "sony-wh-1000xm6-black",
+    "name": "Sony WH-1000XM6 Elite Noise Cancelling Bluetooth Headphones Black",
+    "brand": "Sony",
+    "model": "WH-1000XM6/BME",
+    "category": "headphones",
+    "gtin": "4548736162624",
+    "stores": {
+      "hificorp": "https://www.hificorp.co.za/sony-wh-1000xm6-elite-noise-cancelling-bluetooth-headphones-black",
+      "incredible": "https://www.incredible.co.za/sony-wh-1000xm6-elite-noise-cancelling-bluetooth-headphones-black",
+      "takealot": "https://www.takealot.com/sony-wh1000xm6-noise-cancelling-bluetooth-headphones/PLID98501232?colour_variant=Black"
+    }
+  },
+  {
+    "id": "sony-wh-1000xm5-silver",
+    "name": "Sony WH-1000XM5 Wireless Noise Cancelling Headphones Silver",
+    "brand": "Sony",
+    "model": "WH1000XM5/SME",
+    "category": "headphones",
+    "gtin": "4548736132610",
+    "stores": {
+      "hificorp": "https://www.hificorp.co.za/sony-wh-1000xm5-wireless-noise-cancelling-headphones-silver",
+      "incredible": "https://www.incredible.co.za/sony-wh-1000xm5-wireless-noise-cancelling-headphones-silver",
+      "takealot": "https://www.takealot.com/sony-wireless-noise-cancelling-headphones-wh-1000xm5/PLID91098140?colour_variant=Silver"
+    }
+  },
+  {
+    "id": "sony-wh-ch720n-black",
+    "name": "Sony WH-CH720 Noise Cancelling Over-Ear Headphones Black",
+    "brand": "Sony",
+    "model": "WH-CH720N/BZE",
+    "category": "headphones",
+    "gtin": "4548736142435",
+    "stores": {
+      "hificorp": "https://www.hificorp.co.za/sony-wh-ch720-noise-cancelling-over-ear-headphones-black",
+      "incredible": "https://www.incredible.co.za/sony-wh-ch720-noise-cancelling-over-ear-headphones-black",
+      "takealot": "https://www.takealot.com/sony-wh-ch720n-wireless-noise-cancelling-headphones/PLID92900886?colour_variant=Black"
+    }
+  },
+  {
+    "id": "sony-wh-ch520-black",
+    "name": "Sony WH-CH520 Bluetooth On-Ear Headphones Black",
+    "brand": "Sony",
+    "model": "WH-CH520/BZE",
+    "category": "headphones",
+    "gtin": "4548736142381",
+    "stores": {
+      "hificorp": "https://www.hificorp.co.za/sony-wh-ch520-bluetooth-on-ear-headphones-black",
+      "incredible": "https://www.incredible.co.za/sony-wh-ch520-bluetooth-on-ear-headphones-black",
+      "takealot": "https://www.takealot.com/sony-wh-ch520-wireless-bluetooth-on-ear-headphones/PLID92893168?colour_variant=Black+"
+    }
+  },
+  {
+    "id": "beats-studio-pro-black",
+    "name": "Beats Studio Pro Wireless Headphones Black",
+    "brand": "Beats",
+    "model": "MQTP3AE/A",
+    "category": "headphones",
+    "gtin": "194253715054",
+    "stores": {
+      "hificorp": "https://www.hificorp.co.za/beats-studio-pro-wireless-headphones-black",
+      "incredible": "https://www.incredible.co.za/beats-studio-pro-wireless-headphones-black",
+      "takealot": "https://www.takealot.com/beats-studio-pro-wireless-over-ear-anc-headphones/PLID93512397?colour_variant=Black"
+    }
+  },
+  {
+    "id": "beats-solo4-matt-black",
+    "name": "Beats Solo4 Wireless Headphones - Matt Black",
+    "brand": "Beats",
+    "model": "MUW23AE/A",
+    "category": "headphones",
+    "gtin": "195949121654",
+    "stores": {
+      "hificorp": "https://www.hificorp.co.za/beats-solo4-wireless-headphones-matt-black",
+      "incredible": "https://www.incredible.co.za/beats-solo4-wireless-headphones-matt-black",
+      "takealot": "https://www.takealot.com/beats-solo-4-on-ear-wireless-bluetooth-headphones/PLID95527001?colour_variant=Matt+Black"
+    }
+  },
+  {
+    "id": "samsung-galaxy-buds4-white",
+    "name": "Samsung Galaxy Buds 4 White",
+    "brand": "Samsung",
+    "model": "SM-R540",
+    "category": "headphones",
+    "gtin": "8806097997979",
+    "stores": {
+      "hificorp": "https://www.hificorp.co.za/samsung-galaxy-buds-4-white",
+      "hirschs": "https://www.hirschs.co.za/samsung-white-galaxy-buds4-sm-r540nzwaxfa",
+      "incredible": "https://www.incredible.co.za/samsung-galaxy-buds-4-white",
+      "takealot": "https://www.takealot.com/samsung-galaxy-buds4/PLID101195499?colour_variant=White"
+    }
+  },
+  {
+    "id": "apple-airpods-4",
+    "name": "Apple Airpods 4",
+    "brand": "Apple",
+    "model": "MXP63ZE/A",
+    "category": "headphones",
+    "gtin": "195949688584",
+    "stores": {
+      "hificorp": "https://www.hificorp.co.za/apple-airpods-4",
+      "incredible": "https://www.incredible.co.za/apple-airpods-4",
+      "takealot": "https://www.takealot.com/apple-airpods-4/PLID95957224"
+    }
+  },
+  {
+    "id": "ps5-pro-a-console",
+    "name": "PS5® Pro A Console",
+    "brand": "PlayStation",
+    "model": "10263983",
+    "category": "consoles",
+    "gtin": "711719024125",
+    "stores": {
+      "hificorp": "https://www.hificorp.co.za/ps5-pro-a-console",
+      "incredible": "https://www.incredible.co.za/ps5-pro-a-console"
+    }
+  },
+  {
+    "id": "ps5-slim-disc-edition-e-1tb",
+    "name": "PS5® Slim Disc Edition (E) 1TB",
+    "brand": "PlayStation",
+    "model": "10261749",
+    "category": "consoles",
+    "gtin": "711719020172",
+    "stores": {
+      "hificorp": "https://www.hificorp.co.za/ps5-slim-disc-edition-e-1tb",
+      "incredible": "https://www.incredible.co.za/ps5-slim-disc-edition-e-1tb"
+    }
+  },
+  {
+    "id": "ps5-digital-edition-e-825gb-console",
+    "name": "PS5 Digital Edition E 825GB Console",
+    "brand": "PlayStation",
+    "model": "10261750",
+    "category": "consoles",
+    "gtin": "711719020844",
+    "stores": {
+      "hificorp": "https://www.hificorp.co.za/ps5-digital-edition-e-825gb-console",
+      "hirschs": "https://www.hirschs.co.za/ps5-825gb-slim-digital-unit-10261750",
+      "incredible": "https://www.incredible.co.za/ps5-digital-edition-e-825gb-console"
+    }
+  },
+  {
+    "id": "xbox-series-x",
+    "name": "Xbox Series X",
+    "brand": "Xbox",
+    "model": "RRT-00012",
+    "category": "consoles",
+    "gtin": "889842640830",
+    "stores": {
+      "hificorp": "https://www.hificorp.co.za/xbox-series-x",
+      "incredible": "https://www.incredible.co.za/xbox-series-x",
+      "takealot": "https://www.takealot.com/xbox-series-x-1tb-disc-edition/PLID97222159"
+    }
+  },
+  {
+    "id": "xbox-series-s-1tb-white-console",
+    "name": "Xbox Series S 1TB White Console",
+    "brand": "Xbox",
+    "model": "EP2-00643",
+    "category": "consoles",
+    "gtin": "196388363186",
+    "stores": {
+      "hificorp": "https://www.hificorp.co.za/xbox-series-s-1tb-white-console",
+      "incredible": "https://www.incredible.co.za/xbox-series-s-1tb-white-console",
+      "takealot": "https://www.takealot.com/xbox-series-s-1tb-ssd-white/PLID100783707"
+    }
+  },
+  {
+    "id": "nintendo-switch-2-console",
+    "name": "Nintendo Switch 2 Console",
+    "brand": "Nintendo",
+    "model": "10015151",
+    "category": "consoles",
+    "gtin": "0045496321444",
+    "stores": {
+      "hificorp": "https://www.hificorp.co.za/nintendo-switch-2-console",
+      "incredible": "https://www.incredible.co.za/nintendo-switch-2-console",
+      "takealot": "https://www.takealot.com/nintendo-switch-2-console/PLID97969621"
+    }
+  },
+  {
+    "id": "samsung-galaxy-s25-ultra-256gb-titanium-black",
+    "name": "Samsung Galaxy S25 Ultra 256GB Titanium Black",
+    "brand": "Samsung",
+    "model": "SM-S938",
+    "category": "phones",
+    "gtin": "8806095822761",
+    "stores": {
+      "hificorp": "https://www.hificorp.co.za/samsung-galaxy-s25-ultra-256gb-titanium-black",
+      "incredible": "https://www.incredible.co.za/samsung-galaxy-s25-ultra-256gb-titanium-black",
+      "takealot": "https://www.takealot.com/samsung-galaxy-s25-ultra-5g-256gb-dual-sim-titanium-black/PLID96969776"
+    }
+  },
+  {
+    "id": "samsung-galaxy-s25-256gb-navy",
+    "name": "Samsung Galaxy S25 256GB Navy",
+    "brand": "Samsung",
+    "model": "SM-S931",
+    "category": "phones",
+    "gtin": "8806095847788",
+    "stores": {
+      "hificorp": "https://www.hificorp.co.za/samsung-galaxy-s25-256gb-navy",
+      "incredible": "https://www.incredible.co.za/samsung-galaxy-s25-256gb-navy",
+      "takealot": "https://www.takealot.com/samsung-phones-galaxy-s25-5g-256gb-12gb-ram-smart-phones-navy-ce/PLID96969771"
+    }
+  },
+  {
+    "id": "apple-iphone-16e-128gb-black",
+    "name": "Apple iPhone 16e 128GB Black",
+    "brand": "Apple",
+    "model": "MD1Q4AF/A",
+    "category": "phones",
+    "gtin": "195950376852",
+    "stores": {
+      "hificorp": "https://www.hificorp.co.za/apple-iphone-16e-128gb-black",
+      "incredible": "https://www.incredible.co.za/apple-iphone-16e-128gb-black",
+      "takealot": "https://www.takealot.com/apple-iphone-16e-128gb/PLID97282108?colour_variant=Black"
+    }
+  },
+  {
+    "id": "samsung-galaxy-a57-5g-256gb-gray",
+    "name": "Samsung Galaxy A57 5G 256GB Gray",
+    "brand": "Samsung",
+    "model": "SM-A576BZAPAFA",
+    "category": "phones",
+    "gtin": "8806099050689",
+    "stores": {
+      "hificorp": "https://www.hificorp.co.za/samsung-galaxy-a57-5g-256gb-gray",
+      "incredible": "https://www.incredible.co.za/samsung-galaxy-a57-5g-256gb-gray",
+      "takealot": "https://www.takealot.com/samsung-galaxy-a57-5g-256gb-awesome-gray/PLID101381605"
+    }
+  },
+  {
+    "id": "samsung-galaxy-a37-5g-256gb-gray",
+    "name": "Samsung Galaxy A37 5G 256GB Gray",
+    "brand": "Samsung",
+    "model": "SM-A376BZAVAFA",
+    "category": "phones",
+    "gtin": "8806099052911",
+    "stores": {
+      "hificorp": "https://www.hificorp.co.za/samsung-galaxy-a37-5g-256gb-gray",
+      "incredible": "https://www.incredible.co.za/samsung-galaxy-a37-5g-256gb-gray",
+      "takealot": "https://www.takealot.com/samsung-galaxy-a37-5g-256gb-awesome-charcoal/PLID101381607"
+    }
+  },
+  {
+    "id": "honor-600-pro-12gb-512gb-orange",
+    "name": "Honor 600 Pro 12GB 512GB Orange",
+    "brand": "Honor",
+    "model": "VickyP-N39B",
+    "category": "phones",
+    "gtin": "6936520899784",
+    "stores": {
+      "hificorp": "https://www.hificorp.co.za/honor-600-pro-12gb-512gb-orange",
+      "incredible": "https://www.incredible.co.za/honor-600-pro-12gb-512gb-orange",
+      "takealot": "https://www.takealot.com/honor-600-pro-12gb-512gb-ds-orange/PLID101998530"
+    }
+  },
+  {
+    "id": "samsung-galaxy-a18-128gb-black",
+    "name": "Samsung Galaxy A18 128GB Black",
+    "brand": "Samsung",
+    "model": "SM-A185",
+    "category": "phones",
+    "gtin": "8806099463007",
+    "stores": {
+      "hificorp": "https://www.hificorp.co.za/samsung-galaxy-a18-128gb-black",
+      "incredible": "https://www.incredible.co.za/samsung-galaxy-a18-128gb-black",
+      "takealot": "https://www.takealot.com/samsung-galaxy-a18-128gb-dual-sim-black/PLID103838066"
+    }
+  },
+  {
+    "id": "samsung-galaxy-a08-128gb-dark-blue",
+    "name": "Samsung Galaxy A08 128GB Dark Blue",
+    "brand": "Samsung",
+    "model": "SM-A085 128GB",
+    "category": "phones",
+    "gtin": "8806099448004",
+    "stores": {
+      "hificorp": "https://www.hificorp.co.za/samsung-galaxy-a08-128gb-dark-blue",
+      "incredible": "https://www.incredible.co.za/samsung-galaxy-a08-128gb-dark-blue"
+    }
+  },
+  {
+    "id": "defy-daf4360db",
+    "name": "Defy 6L Digital Air Fryer DAF4360DB",
+    "brand": "Defy",
+    "model": "DAF4360DB",
+    "category": "air-fryers-small-appliances",
+    "gtin": "8690842819711",
+    "stores": {
+      "hificorp": "https://www.hificorp.co.za/defy-6l-digital-air-fryer-daf4360db",
+      "hirschs": "https://www.hirschs.co.za/defy-black-6l-airfryer-daf4360db",
+      "incredible": "https://www.incredible.co.za/defy-6l-digital-air-fryer-daf4360db",
+      "takealot": "https://www.takealot.com/defy-daf4360-mint-stone-black-6l-digital-air-fryer/PLID101368608?colour_variant=Black"
+    }
+  },
+  {
+    "id": "defy-daf6386dbd",
+    "name": "Defy 8.4L Digital Dual Basket Air Fryer DAF6386DBD",
+    "brand": "Defy",
+    "model": "DAF6386DBD",
+    "category": "air-fryers-small-appliances",
+    "gtin": "8690842819704",
+    "stores": {
+      "hificorp": "https://www.hificorp.co.za/defy-8-4l-digital-dual-basket-air-fryer-daf6386dbd",
+      "hirschs": "https://www.hirschs.co.za/defy-8-4l-digital-dual-air-fryer-daf6386dbd",
+      "incredible": "https://www.incredible.co.za/defy-8-4l-digital-dual-basket-air-fryer-daf6386dbd",
+      "takealot": "https://www.takealot.com/defy-8-4l-digital-dual-basket-air-fryer-daf6386dbd/PLID101293006"
+    }
+  },
+  {
+    "id": "hisense-h10afbk1s4",
+    "name": "Hisense 10L Dual Element H10AFBK1S4 Air Fryer",
+    "brand": "Hisense",
+    "model": "H10AFBK1S4",
+    "category": "air-fryers-small-appliances",
+    "gtin": "6976866172479",
+    "stores": {
+      "hificorp": "https://www.hificorp.co.za/hisense-10l-dual-element-h10afbk1s4-air-fryer",
+      "incredible": "https://www.incredible.co.za/hisense-10l-dual-element-h10afbk1s4-air-fryer",
+      "takealot": "https://www.takealot.com/hisense-10l-2100w-dual-heating-air-fryer-with-digital-touchscree/PLID100270202"
+    }
+  },
+  {
+    "id": "russell-hobbs-rhaf09s",
+    "name": "Russell Hobbs 9L Digital Air Fryer RHAF09S",
+    "brand": "Russell Hobbs",
+    "model": "RHAF09S",
+    "category": "air-fryers-small-appliances",
+    "gtin": "6001498215642",
+    "stores": {
+      "hificorp": "https://www.hificorp.co.za/russell-hobbs-9l-digital-air-fryer-rhaf09s",
+      "hirschs": "https://www.hirschs.co.za/russell-hobbs-9l-digital-air-fryer-rhaf09s",
+      "incredible": "https://www.incredible.co.za/russell-hobbs-9l-digital-air-fryer-rhaf09s",
+      "takealot": "https://www.takealot.com/russell-hobbs-digital-9l-air-fryer-rhaf09s/PLID98945485"
+    }
+  },
+  {
+    "id": "bennett-read-kaf145",
+    "name": "Bennett Read 10L Digital Air Fryer KAF145",
+    "brand": "Bennett Read",
+    "model": "KAF145 / BR10LAF1",
+    "category": "air-fryers-small-appliances",
+    "gtin": "6009714430329",
+    "stores": {
+      "hificorp": "https://www.hificorp.co.za/bennett-read-10l-digital-air-fryer-kaf145",
+      "incredible": "https://www.incredible.co.za/bennett-read-10l-digital-air-fryer-kaf145"
+    }
+  },
+  {
+    "id": "philips-na351-00",
+    "name": "Philips NA351/00 9L Dual Basket Airfryer",
+    "brand": "Philips",
+    "model": "NA351/00",
+    "category": "air-fryers-small-appliances",
+    "gtin": "8720389038099",
+    "stores": {
+      "hificorp": "https://www.hificorp.co.za/philips-na351-00-9l-dual-basket-airfryer",
+      "hirschs": "https://www.hirschs.co.za/phillips-9l-black-dual-basket-airfryer-na351-00",
+      "incredible": "https://www.incredible.co.za/philips-na351-00-9l-dual-basket-airfryer"
+    }
+  },
+  {
+    "id": "philips-na130-00",
+    "name": "Philips 6.2L Manual Airfryer - NA130/00",
+    "brand": "Philips",
+    "model": "NA130/00",
+    "category": "air-fryers-small-appliances",
+    "gtin": "8720389034046",
+    "stores": {
+      "hificorp": "https://www.hificorp.co.za/philips-6-2l-manual-airfryer-na130-00",
+      "hirschs": "https://www.hirschs.co.za/philips-6-2l-black-1000-series-analog-airfryer-na130-00",
+      "incredible": "https://www.incredible.co.za/philips-6-2l-manual-airfryer-na130-00",
+      "takealot": "https://www.takealot.com/philips-1000-series-na130-00-6-2l-analog-airfryer-black/PLID95783797"
+    }
+  },
+  {
+    "id": "kenwood-hfm80-000ss",
+    "name": "Kenwood 7lt Air Fryer kHealthy Fry - HFM80.000SS",
+    "brand": "Kenwood",
+    "model": "HFM80.000SS",
+    "category": "air-fryers-small-appliances",
+    "stores": {
+      "hirschs": "https://www.hirschs.co.za/kenwood-7lt-air-fryer-khealthy-fry-hfm80-000ss"
+    }
+  },
+  {
+    "id": "instant-vortex-plus-clearcook-5-7l",
+    "name": "Instant Pot Vortex Plus 6-in-1 Air Fryer with ClearCook",
+    "brand": "Instant Pot",
+    "model": "140-3102-01-SA (5.7L ClearCook)",
+    "category": "air-fryers-small-appliances",
+    "gtin": "810028586420",
+    "stores": {
+      "hirschs": "https://www.hirschs.co.za/instant-pot-vortex-plus-6-in-1-air-fryer-with-clearcook-5-7l-140-3102-01-sa",
+      "takealot": "https://www.takealot.com/instant-vortex-plus-air-fryer-with-clearcook-window-quietmark-ap/PLID91336947"
+    }
+  },
+  {
+    "id": "russell-hobbs-rhaf06",
+    "name": "Russell Hobbs 6.5L Digital Airfryer - RHAF06",
+    "brand": "Russell Hobbs",
+    "model": "RHAF06",
+    "category": "air-fryers-small-appliances",
+    "gtin": "6001498217639",
+    "stores": {
+      "hirschs": "https://www.hirschs.co.za/russell-hobbs-6-5l-digital-airfryer-rhaf06",
+      "takealot": "https://www.takealot.com/russell-hobbs-black-6-5-l-air-fryer/PLID98945461"
+    }
+  },
+  {
+    "id": "parmalat-everfresh-uht-full-cream-milk-1l",
+    "name": "Parmalat Everfresh UHT Full Cream Milk 1L",
+    "brand": "Parmalat",
+    "model": "Parmalat Everfresh UHT Full Cream Milk 1L",
+    "category": "groceries",
+    "gtin": "6002100014004",
+    "stores": {
+      "checkers": "https://www.checkers.co.za/product/parmalat-everfresh-uht-full-cream-milk-1l-10149691EA"
+    }
+  },
+  {
+    "id": "tastic-long-grain-parboiled-white-rice-2kg",
+    "name": "Tastic Long Grain Parboiled White Rice 2kg",
+    "brand": "Tastic",
+    "model": "Tastic Long Grain Parboiled White Rice 2kg",
+    "category": "groceries",
+    "gtin": "6001231000191",
+    "stores": {
+      "checkers": "https://www.checkers.co.za/product/tastic-long-grain-parboiled-white-rice-2kg-10130258EA"
+    }
+  },
+  {
+    "id": "selati-white-sugar-2-5kg",
+    "name": "Selati Pure White Sugar Bag 2.5kg",
+    "brand": "Selati",
+    "model": "Selati Pure White Sugar Bag 2.5kg",
+    "category": "groceries",
+    "gtin": "6001345203129",
+    "stores": {
+      "checkers": "https://www.checkers.co.za/product/selati-pure-white-sugar-bag-25kg-10141800EA"
+    }
+  },
+  {
+    "id": "sunfoil-pure-sunflower-seed-oil-2l",
+    "name": "Sunfoil Pure Sunflower Seed Oil 2L",
+    "brand": "Sunfoil",
+    "model": "Sunfoil Pure Sunflower Seed Oil 2L",
+    "category": "groceries",
+    "gtin": "6001565010392",
+    "stores": {
+      "checkers": "https://www.checkers.co.za/product/sunfoil-pure-sunflower-seed-oil-2l-10130959EA"
+    }
+  },
+  {
+    "id": "white-star-super-maize-2-5kg",
+    "name": "White Star Super Maize Meal 2.5kg",
+    "brand": "White Star",
+    "model": "White Star Super Maize Meal 2.5kg",
+    "category": "groceries",
+    "gtin": "6001571015596",
+    "stores": {
+      "checkers": "https://www.checkers.co.za/product/white-star-super-maize-meal-25kg-10138799EA"
+    }
+  },
+  {
+    "id": "five-roses-ceylon-blend-tagless-tea-bags-102-pack",
+    "name": "Five Roses Ceylon Blend Tagless Tea Bags 102-Pack",
+    "brand": "Five Roses",
+    "model": "Five Roses Ceylon Blend Tagless Tea Bags 102-Pack",
+    "category": "groceries",
+    "gtin": "6001156230253",
+    "stores": {
+      "checkers": "https://www.checkers.co.za/product/five-roses-ceylon-blend-tagless-tea-bags-102-pack-10124211EA"
+    }
+  },
+  {
+    "id": "albany-superior-white-bread-700g",
+    "name": "Albany Superior White Bread 700g",
+    "brand": "Albany",
+    "model": "Albany Superior White Bread 700g",
+    "category": "groceries",
+    "gtin": "6001253010178",
+    "stores": {
+      "checkers": "https://www.checkers.co.za/product/albany-superior-white-bread-700g-10136301EA",
+      "pnp": "https://www.pnp.co.za/albany-superior-white-sliced-bread-700g/p/000000000000129009_EA"
+    }
+  },
+  {
+    "id": "koo-baked-beans-in-tomato-sauce-400g",
+    "name": "KOO Baked Beans in Tomato Sauce 400g",
+    "brand": "KOO",
+    "model": "KOO Baked Beans in Tomato Sauce 400g",
+    "category": "groceries",
+    "gtin": "6001024021228",
+    "stores": {
+      "checkers": "https://www.checkers.co.za/product/koo-baked-beans-in-tomato-sauce-400g-10126789EA"
+    }
+  },
+  {
+    "id": "clover-fresh-full-cream-milk-2l",
+    "name": "Clover Fresh Full Cream Milk 2L",
+    "brand": "Clover",
+    "model": "Clover Fresh Full Cream Milk 2L",
+    "category": "groceries",
+    "gtin": "6001299016158",
+    "stores": {
+      "checkers": "https://www.checkers.co.za/product/clover-fresh-full-cream-milk-2l-10413121EA"
+    }
+  },
+  {
+    "id": "nescafe-ricoffy-soluble-chicory-and-coffee-granules-750g",
+    "name": "NESCAFÉ RICOFFY Soluble Chicory & Coffee Granules 750g",
+    "brand": "NESCAFÉ RICOFFY",
+    "model": "NESCAFÉ RICOFFY Soluble Chicory & Coffee Granules 750g",
+    "category": "groceries",
+    "gtin": "6001068323500",
+    "stores": {
+      "checkers": "https://www.checkers.co.za/product/nescafe-ricoffy-soluble-chicory-and-coffee-granules-750g-10127950EA"
+    }
+  }
+]
